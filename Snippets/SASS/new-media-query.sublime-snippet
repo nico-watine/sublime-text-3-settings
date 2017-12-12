@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\$${1:break-name}: "only screen and (${2:[MAX/MIN]}-width : ${3:#/em}${4:[px/em/em()]})";
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>new-mq</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.sass</scope>
+</snippet>

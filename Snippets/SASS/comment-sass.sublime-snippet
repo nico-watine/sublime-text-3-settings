@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+// --------------------------${1/./-/g}
+// |            ${1:SASS Comment}            |
+// --------------------------${1/./-/g}
+
+$2
+]]></content>
+	<tabTrigger>comment</tabTrigger>
+	<scope>source.sass</scope>
+	<description>SASS Comment Block</description>
+</snippet>

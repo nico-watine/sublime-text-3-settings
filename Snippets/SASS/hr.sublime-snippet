@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+// ---------------------------------------------------------------------- //
+]]></content>
+	<tabTrigger>hr</tabTrigger>
+	<scope>source.sass</scope>
+	<description>Insert //------------</description>
+</snippet>

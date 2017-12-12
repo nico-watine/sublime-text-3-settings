@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<!-- <html prefix="og: http://ogp.me/ns#"> -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Title">
+<meta property="og:description" content="Description">
+<meta property="og:url" content="http://url.com">
+<meta property="og:site_name" content="Site_Name">
+<meta property="og:image" content="http://url.com/image">
+<meta property="fb:app_id" content="123456789">
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>head-og</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>text.html</scope> -->
+</snippet>

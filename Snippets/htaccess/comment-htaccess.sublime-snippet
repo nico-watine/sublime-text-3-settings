@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+# --------------------------${1/./-/g}
+# |            ${1:COMMENT}            |
+# --------------------------${1/./-/g}
+
+$2
+]]></content>
+	<tabTrigger>comment</tabTrigger>
+	<scope>text.plain</scope>
+	<description>.htaccess comment block</description>
+</snippet>

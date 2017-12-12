@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+.DS_Store
+node_modules
+bower_components
+npm-debug.log
+dist
+*.sublime-project
+*.sublime-workspace
+]]></content>
+	<tabTrigger>.gitignore</tabTrigger>
+	<scope>text.plain</scope>
+	<description>Standard .gitignore file entries</description>
+</snippet>

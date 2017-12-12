@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+font: ${1:font-style }${2:font-variant }${3:font-weight }${4:16px}/${5:1.5} ${6:font-family};
+]]></content>
+	<tabTrigger>f</tabTrigger>
+	<scope>source.sass,source.css</scope>
+	<description>Font Shorthand</description>
+</snippet>

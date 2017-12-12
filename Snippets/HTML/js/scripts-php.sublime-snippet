@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<script src="<?php autoVer('/js/${1:*}-min.js'); ?>"></script>
+${2:}
+]]></content>
+	<tabTrigger>scriptsphp</tabTrigger>
+</snippet>

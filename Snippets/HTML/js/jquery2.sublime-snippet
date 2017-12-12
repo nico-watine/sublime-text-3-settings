@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+]]></content>
+	<tabTrigger>jquery2</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,22 @@
+{
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip"
+	],
+	"color_scheme": "Packages/User/Color Schemes/nicoWatine-dark-1.tmTheme",
+	"font_face": "SourceCodePro-Regular",
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_definitions": false,
+	"theme": "Lanzhou.sublime-theme",
+	"word_wrap": "true"
+}
