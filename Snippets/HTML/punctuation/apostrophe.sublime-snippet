@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+&rsquo;
+]]></content>
+	<tabTrigger>'</tabTrigger>
+	<scope>text.html</scope>
+	<description>Proper typographical apostrophe</description>
+</snippet>
