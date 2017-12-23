@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+<meta name="format-detection" content="telephone=no">
+]]></content>
+	<tabTrigger>nophone</tabTrigger>
+</snippet>
