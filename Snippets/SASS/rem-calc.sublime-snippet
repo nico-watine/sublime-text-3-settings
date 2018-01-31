@@ -3,6 +3,6 @@
 rem-calc(${1:x})
 ]]></content>
 	<tabTrigger>frem</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.sass,source.scss</scope>
 	<description>Foundation PX Calc</description>
 </snippet>

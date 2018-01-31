@@ -3,6 +3,6 @@
 // ---------------------------------------------------------------------- //
 ]]></content>
 	<tabTrigger>hr</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.sass,source.scss</scope>
 	<description>Insert //------------</description>
 </snippet>

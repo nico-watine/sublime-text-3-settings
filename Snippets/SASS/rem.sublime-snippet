@@ -3,6 +3,6 @@
 rem(${1:x})
 ]]></content>
 	<tabTrigger>rem</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.sass,source.scss</scope>
 	<description>Bourbon 4 PX Calc</description>
 </snippet>

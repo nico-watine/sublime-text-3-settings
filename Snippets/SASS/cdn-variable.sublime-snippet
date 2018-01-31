@@ -3,6 +3,6 @@
 #{\$url}
 ]]></content>
 	<tabTrigger>cdn</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.sass,source.scss</scope>
 	<description>CDN Variable</description>
 </snippet>
