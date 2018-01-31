@@ -7,6 +7,6 @@
 $2
 ]]></content>
 	<tabTrigger>comment</tabTrigger>
-	<scope>source.sass</scope>
+	<scope>source.sass,source.scss</scope>
 	<description>SASS Comment Block</description>
 </snippet>
