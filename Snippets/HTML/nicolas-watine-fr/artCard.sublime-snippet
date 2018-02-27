@@ -3,13 +3,9 @@
 <div class="column">
 	<div class="artCard">
 		<div class="artCard-image">
-			<a href="/img/paintings/venice/canvas/venice-canvas-${1:#}.jpg">
-				<img class="absolute-center" src="/img/paintings/venice/canvas/venice-canvas-${1:#}.jpg" alt="Artist Nicolas Watine Venice Painting">
+			<a href="/img/paintings/venice/paper/venice-paper-${1:#}.jpg">
+				<img class="absolute-center" src="/img/paintings/venice/paper/venice-paper-${1:#}.jpg" alt="Artist Nicolas Watine Venice Sketch">
 			</a>
-		</div>
-		<div class="artCard-prose">
-			<h4 class="title">Untitled</h4>
-			<p class="dimensions"># x # cm</p>
 		</div>
 	</div>
 </div>
