@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<div class="column">
+	<div class="artCard">
+		<div class="artCard-image">
+			<a href="/img/drawings/black-color-pencil/${1:#}.jpg">
+				<img class="absolute-center" src="/img/drawings/black-color-pencil/${1:#}.jpg" alt="Artist Nicolas Watine Pencil Sketch">
+			</a>
+		</div>
+	</div>
+</div>
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ac</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
