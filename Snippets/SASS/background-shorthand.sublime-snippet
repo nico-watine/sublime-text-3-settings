@@ -3,7 +3,7 @@
 background: ${1:background-color} url("${2:}") ${3:background-position}/${4:background-size} ${5:background-repeat} ${6:background-attachment};
 ]]></content>
 	<tabTrigger>bg</tabTrigger>
-	<scope>source.sass,source.scss</scope>
+	<scope>source.sass,source.scss,source.css</scope>
 	<description>Background Shorthand</description>
 </snippet>
 
