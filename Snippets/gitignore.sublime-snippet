@@ -9,6 +9,6 @@ dist
 *.sublime-workspace
 ]]></content>
 	<tabTrigger>.gitignore</tabTrigger>
-	<scope>text.plain</scope>
+	<scope>text.plain,source.git</scope>
 	<description>Standard .gitignore file entries</description>
 </snippet>
