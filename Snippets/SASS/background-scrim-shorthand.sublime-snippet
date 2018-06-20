@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+background: linear-gradient(
+${1:rgba-1},
+${2:rgba-2}
+), url('#${3:cdn}/${4:relativePath}') ${5:background-position}/${6:background-size} ${7:background-repeat} ${8:background-attachment};
+]]></content>
+	<tabTrigger>bgs</tabTrigger>
+	<scope>source.sass,source.scss,source.css</scope>
+	<description>Background Scrim Shorthand</description>
+</snippet>
+
+
+
