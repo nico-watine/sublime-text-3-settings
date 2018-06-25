@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+root = true
+
+[*]
+indent_style = tab
+indent_size = tab
+tab_width = 4
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+]]></content>
+	<tabTrigger>.editorconfig</tabTrigger>
+	<scope>text.plain,source.editorconfig</scope>
+	<description>Standard .editorconfig file entries</description>
+</snippet>
