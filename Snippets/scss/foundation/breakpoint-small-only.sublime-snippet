@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@include breakpoint(small only)
+]]></content>
+	<tabTrigger>bpso</tabTrigger>
+	<scope>source.sass,source.scss</scope>
+	<description>F6 @small only</description>
+</snippet>
