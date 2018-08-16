@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@include breakpoint(medium)
+]]></content>
+	<tabTrigger>bpm</tabTrigger>
+	<scope>source.sass,source.scss</scope>
+	<description>F6 @medium</description>
+</snippet>
