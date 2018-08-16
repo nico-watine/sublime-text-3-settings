@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@include breakpoint(large only)
+]]></content>
+	<tabTrigger>bplo</tabTrigger>
+	<scope>source.sass,source.scss</scope>
+	<description>F6 @large only</description>
+</snippet>
