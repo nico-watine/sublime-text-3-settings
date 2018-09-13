@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<p>
+	<strong>Botanical Name:</strong> <em>${1:botanical_name}</em>
+	<br>
+	<strong>Light Requirement:</strong> ${2:light}
+	<br>
+	<strong>Grow Pot Diameter:</strong> ${3:14}"
+	<br>
+	<strong>Fits in these Container Sizes:</strong> Small | Medium | Large | X-Large
+	<br>
+	<strong>Container Shown in 1st Photo:</strong> <a href="#">pot_name_size</a>
+</p>
+
+]]></content>
+	<tabTrigger>productb</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

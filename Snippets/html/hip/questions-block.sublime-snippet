@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<h3>Questions?</h3>
+<p>For help or additional information, call Lissette at 713-864-1802 or email her your question or phone number to <a href="mailto:lissette@greencaretx.com">lissette@greencaretx.com</a>.
+</p>
+
+]]></content>
+	<tabTrigger>questions</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
