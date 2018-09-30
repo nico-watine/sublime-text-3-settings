@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<h3>Typical Average Size</h3>
+<p>${1:X}" Wide | ${2:X}" Tall</p>
+
+]]></content>
+	<tabTrigger>size</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
