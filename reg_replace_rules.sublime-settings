@@ -1,0 +1,13 @@
+{
+	"replacements":
+	{
+		"smart_quotes":
+		{
+			"find": "\"([^\"]*)\"",
+			"format_replace": false,
+			"literal": false,
+			"name": "smart_quotes",
+			"replace": "“\\g<1>”"
+		}
+	}
+}

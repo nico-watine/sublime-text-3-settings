@@ -1,0 +1,11 @@
+[
+	{
+		"caption": "Reg Replace: Smart Quotes",
+		"command": "reg_replace",
+		"args": {
+			"replacements": [
+				"smart_quotes"
+			]
+		}
+	}
+]
