@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-<link href="${1:url}" rel="stylesheet">
-${2:}
-]]></content>
-	<tabTrigger>csss</tabTrigger>
-	<description>Insert CSS via URL</description>
-</snippet>
