@@ -3,6 +3,6 @@
 @include breakpoint(large)
 ]]></content>
 	<tabTrigger>bpl</tabTrigger>
-	<scope>source.sass,source.scss</scope>
+	<!-- <scope>source.sass,source.scss</scope> -->
 	<description>F6 @large</description>
 </snippet>
