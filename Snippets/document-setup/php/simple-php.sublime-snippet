@@ -1,0 +1,26 @@
+<snippet>
+	<content><![CDATA[
+<?php
+	include(['DOCUMENT_ROOT'].'/php/autoVer.php');
+?>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Title</title>
+
+	<link href="<?php autoVer('/css/style.css'); ?>" rel="stylesheet">
+</head>
+<body>
+
+
+
+
+
+</body>
+</html>
+]]>
+</content>
+	<tabTrigger>simplephp</tabTrigger>
+</snippet>
