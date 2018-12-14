@@ -1,5 +1,8 @@
 <snippet>
 	<content><![CDATA[
+<?php
+	include(['DOCUMENT_ROOT'].'/php/autoVer.php');
+?>
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
@@ -11,7 +14,7 @@
 	<link href="url" rel="canonical">
 	<link href="/humans.txt" rel="author">
 
-	<link href="/css/style.css" rel="stylesheet">
+	<link href="<?php autoVer('/css/style.css'); ?>" rel="stylesheet">
 
 </head>
 <body>
@@ -24,5 +27,5 @@
 </html>
 ]]>
 </content>
-	<tabTrigger>newhtml</tabTrigger>
+	<tabTrigger>productionphp</tabTrigger>
 </snippet>
