@@ -10,4 +10,4 @@ Package Control.user-ca-bundle
 *.sublime-project
 *.sublime-workspace
 oscrypto-ca-bundle.crt
-.tmTheme
+*.tmTheme
