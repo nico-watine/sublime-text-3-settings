@@ -7,6 +7,4 @@ file_uploads = On
 max_execution_time = 180
 ]]></content>
 	<tabTrigger>.user.ini</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.python</scope> -->
 </snippet>
