@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<video height="x" width="x" autoplay muted controls loop preload="none|auto|metadata" poster="poster.jpg">
+<video height="x" width="x" playsinline autoplay muted controls loop preload="none|auto|metadata" poster="poster.jpg">
 	<source src="video.mp4" type="video/mp4">
 	<source src="video.webm" type="video/webm">
 	<source src="video.ogv" type="video/ogg">
