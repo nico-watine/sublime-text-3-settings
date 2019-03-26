@@ -21,5 +21,5 @@
 	"word_wrap": "true",
 	"mini_diff": false,
 	"show_git_status": false,
-	"binary_file_patterns": ["node_modules/", "bower_components/", "*.tga", "*.dds", "*.ico", "*.eot", "*.ttf", "*.woff", "*.woff2"]
+	"binary_file_patterns": ["node_modules/", "bower_components/", "*.tga", "*.dds", "*.ico", "*.eot", "*.ttf", "*.woff", "*.woff2", "config.codekit3"]
 }
