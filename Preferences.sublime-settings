@@ -1,13 +1,16 @@
 {
 	"binary_file_patterns":
 	[
+		"node_modules/",
+		"bower_components/",
+		"*.tga",
 		"*.dds",
 		"*.ico",
 		"*.eot",
-		"*.pdf",
-		"*.swf",
-		"*.jar",
-		"*.zip"
+		"*.ttf",
+		"*.woff",
+		"*.woff2",
+		"config.codekit3"
 	],
 	"color_scheme": "Packages/User/Color Schemes/nicoWatine-dark-1.tmTheme",
 	"font_face": "SourceCodePro-Regular",
@@ -16,10 +19,9 @@
 	[
 		"Vintage"
 	],
-	"show_definitions": false,
-	"theme": "Lanzhou.sublime-theme",
-	"word_wrap": "true",
 	"mini_diff": false,
+	"show_definitions": false,
 	"show_git_status": false,
-	"binary_file_patterns": ["node_modules/", "bower_components/", "*.tga", "*.dds", "*.ico", "*.eot", "*.ttf", "*.woff", "*.woff2", "config.codekit3"]
+	"theme": "Lanzhou.sublime-theme",
+	"word_wrap": "true"
 }
