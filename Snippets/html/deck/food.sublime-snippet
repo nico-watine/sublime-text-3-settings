@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div class="menu-item">
+	<h3 class="item-name">${1:Item}</h3>
+	<p class="item-price"><strong>\$${2:price}</strong></p>
+	<p class="item-description">${3:description}</p>
+</div>
+]]></content>
+	<tabTrigger>food</tabTrigger>
+	<!-- <scope>source.python</scope> -->
+</snippet>
