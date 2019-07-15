@@ -10,6 +10,7 @@
 		"*.ttf",
 		"*.woff",
 		"*.woff2",
+		"*.sublime-project",
 		"config.codekit3"
 	],
 	"color_scheme": "Packages/User/Color Schemes/nicoWatine-dark-1.tmTheme",
