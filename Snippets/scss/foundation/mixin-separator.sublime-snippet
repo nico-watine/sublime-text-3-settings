@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@include separator(${1:left/center/right}, ${2:height}, ${3:width}, ${4:color}, ${5:top});
+]]></content>
+	<tabTrigger>fmixseparator</tabTrigger>
+	<scope>source.sass,source.scss,source.SCSS</scope>
+	<description>F6 @include separator</description>
+</snippet>
