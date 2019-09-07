@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <?php
-	include(['DOCUMENT_ROOT'].'/php/autoVer.php');
+	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
 ?>
 <!DOCTYPE html>
 <html>
