@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+@include media('${1:breakpoint}') {
+	${2:}
+}
+]]></content>
+	<tabTrigger>imq</tabTrigger>
+	<scope>source.sass,source.scss</scope>
+	<description>@include-media function</description>
+</snippet>
