@@ -4,7 +4,7 @@
 	${2:}
 }
 ]]></content>
-	<tabTrigger>mq</tabTrigger>
+	<tabTrigger>smq</tabTrigger>
 	<scope>source.sass,source.scss</scope>
-	<description>Insert Custom Media Query</description>
+	<description>Insert SCSS Custom Media Query</description>
 </snippet>
