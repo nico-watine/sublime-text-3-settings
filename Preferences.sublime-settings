@@ -13,6 +13,7 @@
 		"*.sublime-project",
 		"config.codekit3"
 	],
+	"bold_folder_labels": true,
 	"color_scheme": "Packages/Theme - Nico/Nico.tmTheme",
 	"font_face": "SourceCodePro-Regular",
 	"font_size": 16,
