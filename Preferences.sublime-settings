@@ -23,6 +23,7 @@
 	],
 	"show_definitions": false,
 	"show_git_status": false,
+	"mini_diff": false,
 	"theme": "Nico.sublime-theme",
 	"word_wrap": "true"
 }
