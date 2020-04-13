@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-upload_max_filesize = 128M
-post_max_size = 128M
+upload_max_filesize = 2048M
+post_max_size = 2048M
 memory_limit = 400M
 file_uploads = On
 max_execution_time = 180
