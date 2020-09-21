@@ -1,11 +1,11 @@
 <snippet>
 	<content><![CDATA[
 upload_max_filesize = 2048M
-post_max_size = 2048M
-memory_limit = 400M
+post_max_size = 3072M
+memory_limit = 4096M
 file_uploads = On
-max_execution_time = 180
-max_input_vars = 5000
+max_execution_time = 360
+max_input_vars = 10000
 ]]></content>
 	<tabTrigger>.user.ini</tabTrigger>
 </snippet>
