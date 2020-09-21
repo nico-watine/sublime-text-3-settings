@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+// @codekit-append '/${1:path}'
+
+]]></content>
+	<tabTrigger>cka</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
