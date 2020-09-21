@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+// @codekit-prepend '/${1:path}'
+
+]]></content>
+	<tabTrigger>ckp</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
