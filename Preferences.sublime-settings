@@ -19,6 +19,7 @@
 	"font_size": 16,
 	"ignored_packages":
 	[
+		"CodeKit Commands",
 		"Vintage"
 	],
 	"mini_diff": false,
