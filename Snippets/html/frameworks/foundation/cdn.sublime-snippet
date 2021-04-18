@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+{{ cdn }}
+]]></content>
+	<tabTrigger>cdn</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
