@@ -15,11 +15,11 @@
 	],
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Theme - Nico/Nico.tmTheme",
+	"el_capitan_sidebar_blue_folders": true,
 	"font_face": "SourceCodePro-Regular",
-	"font_size": 16,
+	"font_size": 17,
 	"ignored_packages":
 	[
-		"CodeKit Commands",
 		"Vintage"
 	],
 	"mini_diff": false,
