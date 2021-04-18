@@ -7,8 +7,9 @@ npm-debug.log
 dist
 *.sublime-project
 *.sublime-workspace
+
 ]]></content>
-	<tabTrigger>.gitignore</tabTrigger>
-	<scope>text.plain,source.git</scope>
+	<tabTrigger>gitignore</tabTrigger>
+	<!-- <scope>text.plain,source.gitignore</scope> -->
 	<description>Standard .gitignore file entries</description>
 </snippet>
