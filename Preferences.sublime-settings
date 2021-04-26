@@ -1,4 +1,5 @@
 {
+	"auto_complete_commit_on_tab": true,
 	"binary_file_patterns":
 	[
 		"node_modules/",
@@ -15,6 +16,7 @@
 	],
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Theme - Nico/Nico.tmTheme",
+	"drag_text": false,
 	"el_capitan_sidebar_blue_folders": true,
 	"font_face": "SourceCodePro-Regular",
 	"font_size": 17,
@@ -23,6 +25,7 @@
 		"Vintage"
 	],
 	"mini_diff": false,
+	"shift_tab_unindent": true,
 	"show_definitions": false,
 	"show_git_status": false,
 	"theme": "Nico.sublime-theme",
