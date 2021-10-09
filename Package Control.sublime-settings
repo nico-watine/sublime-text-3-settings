@@ -16,6 +16,7 @@
 		"EditorConfigSnippets",
 		"Emmet",
 		"Extract Sublime Package",
+		"Foundation 6 Autocomplete",
 		"HTML Head Snippets",
 		"Package Control",
 		"PackageResourceViewer",
@@ -23,8 +24,9 @@
 		"RegReplace",
 		"SASS Snippets",
 		"SideBarEnhancements",
+		"SublimeCodeIntel",
 		"Syntax Highlighting for Sass",
 		"Theme - Delta",
-		"Theme - El Capitan"
-	]
+		"Theme - El Capitan",
+	],
 }

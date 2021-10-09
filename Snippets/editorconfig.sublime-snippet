@@ -25,5 +25,5 @@ insert_final_newline = ignore
 ]]></content>
 	<tabTrigger>editorconfig</tabTrigger>
 	<!-- <scope>text.plain,source.EditorConfig</scope> -->
-	<description>editorconfig entry</description>
+	<description>Custom editorconfig entry</description>
 </snippet>
