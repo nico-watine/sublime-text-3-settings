@@ -1,4 +1,4 @@
 {
 	"auto_close_codekit": true,
-	"auto_switch_codekit_projects": true
+	"auto_switch_codekit_projects": false,
 }
