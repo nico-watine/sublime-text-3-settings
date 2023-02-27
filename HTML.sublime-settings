@@ -1,5 +1,9 @@
 // These settings override both User and Default settings for the SCSS syntax
 
 {
-	"tab_size": 3
+	"tab_size": 3,
+	"extensions":
+	[
+		"liquid"
+	],
 }
