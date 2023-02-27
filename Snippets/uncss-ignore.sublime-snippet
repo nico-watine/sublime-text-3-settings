@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+/* uncss:ignore */
+]]></content>
+	<tabTrigger>unc</tabTrigger>
+	<description>/* uncss:ignore */</description>
+</snippet>
