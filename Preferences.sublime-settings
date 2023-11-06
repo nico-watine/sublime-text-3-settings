@@ -30,4 +30,5 @@
 	"show_git_status": false,
 	"theme": "Nico.sublime-theme",
 	"word_wrap": "true",
+	"tab_size": 3
 }
